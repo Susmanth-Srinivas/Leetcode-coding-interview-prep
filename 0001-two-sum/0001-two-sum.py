@@ -1,10 +1,15 @@
 class Solution:
     def twoSum(self, nums, target):
-        n = len(nums)
+        seen = {} ##empty dictionary with key : value pair as number : index 
 
-        for i in range(n):
-            for j in range(i+1,n):
+        for i,num in enumerate(nums):
 
-                if nums[i]+ nums[j] == target:
-                    return [i,j]
-        
+            complement = target - num 
+
+            if complement in seen:
+                return [seen[complement], i]
+
+            seen[num] = i
+            
+
+      
