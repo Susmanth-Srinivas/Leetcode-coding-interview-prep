@@ -34,3 +34,11 @@ This repository contains my accepted LeetCode solutions in Python.
 ---
 
 Solutions are automatically synced from LeetCode using LeetHub.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
