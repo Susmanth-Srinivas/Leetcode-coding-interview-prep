@@ -50,4 +50,13 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
