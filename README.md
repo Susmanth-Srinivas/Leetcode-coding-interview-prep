@@ -71,4 +71,12 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
