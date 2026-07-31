@@ -59,6 +59,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -72,6 +73,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0027-remove-element) |
 ## Linked List
 |  |
 | ------- |
