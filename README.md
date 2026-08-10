@@ -73,6 +73,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
