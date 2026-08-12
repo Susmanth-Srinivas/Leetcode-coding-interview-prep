@@ -84,6 +84,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0110-balanced-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0110-balanced-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0110-balanced-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
