@@ -57,6 +57,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0020-valid-parentheses) |
@@ -92,6 +93,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -113,6 +115,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0119-pascals-triangle-ii) |
@@ -209,4 +212,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
