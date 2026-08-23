@@ -86,6 +86,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0069-sqrtx) |
 ## Bit Manipulation
