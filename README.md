@@ -91,6 +91,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -257,6 +258,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0040-combination-sum-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
