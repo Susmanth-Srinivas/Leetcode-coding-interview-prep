@@ -47,6 +47,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0069-sqrtx) |
@@ -96,6 +97,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0040-combination-sum-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -275,4 +277,8 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
