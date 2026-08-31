@@ -59,6 +59,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0012-integer-to-roman](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -76,6 +77,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0125-valid-palindrome) |
@@ -99,6 +101,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0046-permutations](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
@@ -197,6 +200,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0016-3sum-closest](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
