@@ -103,6 +103,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0047-permutations-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
@@ -160,6 +161,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0005-longest-palindromic-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
@@ -253,6 +255,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
