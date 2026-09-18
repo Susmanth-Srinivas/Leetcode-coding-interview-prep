@@ -110,6 +110,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0055-jump-game](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -204,6 +205,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- |
 | [0043-multiply-strings](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
 ## Newton's Method
 |  |
@@ -312,6 +314,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- |
 | [0048-rotate-image](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
