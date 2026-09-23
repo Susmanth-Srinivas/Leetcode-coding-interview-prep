@@ -113,6 +113,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0057-insert-interval](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -180,6 +181,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0055-jump-game](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0119-pascals-triangle-ii) |
@@ -322,6 +324,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0054-spiral-matrix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
