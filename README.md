@@ -115,6 +115,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
@@ -209,6 +210,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0136-single-number) |
 ## Simulation
 |  |
@@ -309,6 +311,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0040-combination-sum-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
