@@ -62,6 +62,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -117,6 +118,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -335,6 +337,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
