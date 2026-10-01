@@ -54,6 +54,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0089-gray-code) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0029-divide-two-integers](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0136-single-number) |
 ## Simulation
 |  |
@@ -336,6 +338,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0077-combinations](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
 | ------- |
