@@ -183,6 +183,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0024-swap-nodes-in-pairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
