@@ -55,6 +55,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0069-sqrtx](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -268,6 +270,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -294,6 +297,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -321,6 +325,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
