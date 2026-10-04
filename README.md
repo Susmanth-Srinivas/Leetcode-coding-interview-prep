@@ -63,6 +63,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0012-integer-to-roman](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0141-linked-list-cycle) |
@@ -81,6 +82,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0020-valid-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0049-group-anagrams) |
@@ -341,6 +343,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Manacher
 |  |
 | ------- |
