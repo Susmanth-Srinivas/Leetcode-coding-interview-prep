@@ -56,6 +56,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0070-climbing-stairs](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0171-excel-sheet-column-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0093-restore-ip-addresses](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
