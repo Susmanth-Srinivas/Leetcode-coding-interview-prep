@@ -95,6 +95,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0058-length-of-last-word](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0079-word-search) |
@@ -138,6 +139,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0063-unique-paths-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0075-sort-colors) |
@@ -281,6 +283,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0054-spiral-matrix](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0068-text-justification) |
 ## Newton's Method
 |  |
 | ------- |
