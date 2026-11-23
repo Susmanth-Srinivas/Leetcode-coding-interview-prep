@@ -72,6 +72,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0073-set-matrix-zeroes](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -157,6 +158,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0088-merge-sorted-array](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0119-pascals-triangle-ii) |
@@ -321,6 +323,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -356,6 +359,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -379,6 +383,7 @@ Solutions are automatically synced from LeetCode using LeetHub.
 | [0023-merge-k-sorted-lists](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Susmanth-Srinivas/Leetcode-coding-interview-prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
